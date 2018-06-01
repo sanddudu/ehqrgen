@@ -3,7 +3,9 @@
 // @namespace    E-H-QRGen
 // @version      1.0
 // @description  自动生成当前画廊的 QR 码
-// @author       whitebox
+// @author       sanddudu
+// @license      MIT
+// @homepageURL  https://github.com/sanddudu/ehqrgen
 // @match        *://e-hentai.org/g/*
 // @match        *://exhentai.org/g/*
 // @grant        none
